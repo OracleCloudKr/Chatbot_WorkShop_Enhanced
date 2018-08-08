@@ -4,7 +4,7 @@
 
 # Prerequisite 
 
-이 핸즈온을 완료하려면 Oracle Autonomous Mobile Cloud, Enterprise (AMCe)에 액세스해야합니다. 챗봇을 만드는 것을 수월하게 해줄 코드가 포함되어이 있는 zip파일을 instructor를 통해 받으세요. [labfiles.zip]라는 이름으로 되어 있습니다. 이 코스 전반에 걸쳐 언급 될것이므로 편리한 장소에 저장하십시오.
+이 핸즈온을 완료하려면 Oracle Autonomous Mobile Cloud, Enterprise (AMCe)에 액세스해야합니다. 챗봇을 만드는 것을 수월하게 해줄 코드가 포함되어이 있는 zip파일을 instructor를 통해 받으세요. **labfiles.zip**라는 이름으로 되어 있습니다. 이 코스 전반에 걸쳐 언급 될것이므로 편리한 장소에 저장하십시오.
 
 # Chatbot-Workshop Lab 자료
 
