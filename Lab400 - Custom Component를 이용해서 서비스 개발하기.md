@@ -41,11 +41,11 @@ Lab400 - Custom Component를 이용해서 서비스 개발하기
 
     "apiName":"OracleMobileAPI",
     "apiVersion":"1.0",
-    "apiId":"7a578d0f-1bec-4c27-8df7-c911839fe0a2",
+    "apiId":"[YOUR APPID]",
     "baseUrl":"https://OOOOOOO.uscom-central-1.oraclecloud.com:443",
     "tokenEndpoint":"https://idcs-OOOOOOO.identity.oraclecloud.com/oauth2/v1/token",
     "backend":{
-        "backendId":"5247baa8-e677-411a-8e45-b45e83303dfa",
+        "backendId":"[YOUR BACKEND ID]",
         "backendName":"chatbot",
         "backendVersion":"1.0",
         "authorization":{
