@@ -8,8 +8,12 @@ Training 과정을 통해 더욱 정교한 대화가 가능한 챗봇으로 진�
 이 실습에서는 가상의 "금융 뱅킹 봇"을 개발 해 보고, 테스트 할 것입니다. 만드실 이 챗봇은 대화를 통해서 은행 계좌에서 잔액을 찾고, 은행 계좌간에 돈을 송금하고, 다른 사람과 계좌로 송금 할 수 있는 봇입니다. 
 
 # Prerequisite 
+이 핸즈온을 완료하려면 Oracle Autonomous Mobile Cloud, Enterprise (AMCe)에 액세스해야합니다. Oracle Cloud 계정을 이미 가지고 계시다면 Autonomous Mobile Cloud Service 인스턴스를 생성한 후 이 과정을 수행하시면 됩니다. 
+Oracle Cloud 계정이 없다면 무료로 제공되는 Trial 계정을 신청하세요
+* [Trial 계정 신청하기](http://www.oracloud.kr/post/oracle_cloud_trial_universal/)
+* [Autonomous Mobile Cloud 인스턴스 생성하기](https://docs.oracle.com/en/cloud/paas/mobile-autonomous-cloud/service-administration/getting-started.html#GUID-81AC3F6F-E484-4FDD-B297-B38BB968741F)
 
-이 핸즈온을 완료하려면 Oracle Autonomous Mobile Cloud, Enterprise (AMCe)에 액세스해야합니다. 챗봇을 만드는 것을 수월하게 해줄 코드가 포함되어이 있는 zip파일을 instructor를 통해 받으세요. **labfiles.zip**라는 이름으로 되어 있습니다. 이 코스 전반에 걸쳐 언급 될것이므로 편리한 장소에 저장하십시오.
+챗봇을 만드는 것을 수월하게 해줄 코드가 포함되어이 있는 zip파일을 instructor를 통해 받으세요. **labfiles.zip**라는 이름으로 되어 있습니다. 이 코스 전반에 걸쳐 언급 될것이므로 편리한 장소에 저장하십시오.
 
 # Chatbot-Workshop Lab 자료
 
