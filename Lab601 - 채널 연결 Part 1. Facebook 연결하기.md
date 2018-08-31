@@ -22,8 +22,7 @@ Lab601 - [채널 연결] Facebook 연결하기
 
 ### 1. 연결한 Page를 통해서 대화 해 보세요. 
 
-![KakaoTalk_Photo_2018-08-08-11-05-10](media/15336451187492/KakaoTalk_Photo_2018-08-08-11-05-10.png)
-
+![KakaoTalk_Photo_2018-08-08-11-05-10](media/15336451187492/KakaoTalk_Photo_2018-08-08-11-05-10.png){width=50%}
 
 ![KakaoTalk_Photo_2018-08-08-11-05-08](media/15336451187492/KakaoTalk_Photo_2018-08-08-11-05-08.png)
 
