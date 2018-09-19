@@ -77,7 +77,8 @@ Lab400 - Custom Component를 이용해서 서비스 개발하기
 
 ### 4. omce-tools/omce-tools에서 아래의 커맨드로 수정사항을 deploy합니다. 
 
-	node omce-deploy ../../mobile-API/oraclemobileapi/toolsConfig.json -u {mcs_user_name} -p {mcs_password}
+	node omce-deploy ../../mobile-API/BankingCC/toolsConfig.json -u {mcs_user_name} -p {mcs_password}
+
 
 
 아래와 같은 메세지가 나오면 성공적으로 deploy 한 것입니다. 
